@@ -1,14 +1,15 @@
 # YouTube-Clone
-
-<strong> TABLE OF CONTENTS</strong>
-<p>
+<body>
+<header <strong> TABLE OF CONTENTS </strong> >
+  <\header>
 <br>
 -About <!--Introduction to Project -->
 <br>
 -Tech Stack
 <br>
 -Credits
-</p> 
+
+
 <p>
   <Strong>About</Strong>
   <br>
@@ -19,9 +20,7 @@ This is a simple YouTube homepage clone created using only HTML and CSS . The pr
   <br>
   - Frontend: HTML, CSS
 </p>
-<p>
- 
-</p>
+
 <p>
 <Strong>Credits</Strong>
   <br>
@@ -30,4 +29,4 @@ This is a simple YouTube homepage clone created using only HTML and CSS . The pr
 - Inspired by SuperSimpleDev (https://www.youtube.com/c/SuperSimpleDev)  
   <br>
 </p>
-
+</body>
