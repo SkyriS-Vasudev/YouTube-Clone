@@ -1,7 +1,6 @@
 # YouTube-Clone
 <body>
-<header <strong> TABLE OF CONTENTS </strong> 
-  <\header>
+<strong> TABLE OF CONTENTS </strong> 
 <br>
 -About <!--Introduction to Project -->
 <br>
