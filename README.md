@@ -26,6 +26,7 @@ This is a simple YouTube homepage clone created using only HTML and CSS . The pr
 <Strong>Credits</Strong>
   <br>
 - Author: Sneha Sathe
+  <br>
 - Inspired by [SuperSimpleDev](https://www.youtube.com/c/SuperSimpleDev)  
   <br>
 </p>
