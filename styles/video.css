@@ -1,0 +1,83 @@
+
+/*CONSISTS OF STYLES TARGETTING THE VIDEO i.e MAIN SECTION OF YOUTUBE */
+.channel-info{
+  display:inline-block;
+  vertical-align:top;
+}
+
+
+.video-grid{
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr ;
+  column-gap:16px;
+  row-gap:40px;
+  background-color:rgb(249,249,249);
+
+}
+
+@media (max-width: 750px) {
+  .video-grid{
+  grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 751px) and (max-width:999px){
+  .video-grid{
+  grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+@media (min-width: 1000px) {
+  .video-grid{
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
+.thumbnail{
+  width:100%;
+  border-radius:9px;
+}
+.video-info-grid{
+  display:grid;
+  grid-template-columns:50px  1fr;
+}
+
+.video-thumbnail{
+  position:relative;
+  margin-bottom:8px;
+}
+
+.video-time{
+  position:absolute;
+  background-color:black;
+  color:white;
+  bottom:10px;
+  right:10px;
+  font-size:12px;
+  padding:4px;
+  font-weight:500;
+  border-radius:2px;
+}
+.channel-prof{
+  width: 36px;
+  border-radius:18px;
+  display:inline-block;
+  vertical-align:top;
+}
+.video-title{
+  margin-top: 0px; 
+  font-weight:500;
+  font-size: 14px;
+  line-height:20px;
+  margin-bottom:5px;
+  
+}
+.video-author, .video-stats{
+  font-size:12px;
+  margin-top:4px;
+  color:#606060;
+  
+}
+
+.video-author{
+  margin-bottom:4px;
+}

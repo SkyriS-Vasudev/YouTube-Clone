@@ -1,0 +1,32 @@
+/*CONSISTS OF STYLES TARGETTING THE SIDEBAR OF YOUTUBE */
+.side-bar{
+    width:74px;
+    top:51px;
+    bottom:0;
+    left:0;
+    z-index:2;
+    position:fixed;
+    padding-top:4px;
+}
+
+.sidebar-link{
+    
+    height:74px;
+    background-color:white;
+    color:black;
+    font-size:10px;
+    font-family:roboto,arial;
+    margin-bottom:0px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    cursor:pointer;
+}
+
+.sidebar-icon{
+    height:24px;
+    width:24px;
+    margin-bottom:6.5px;
+   
+}
