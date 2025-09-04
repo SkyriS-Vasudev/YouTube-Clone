@@ -27,6 +27,10 @@
 -youtube-clone: This File conatains the HTML Code of our Youtube Clone. 
  <br>
 -styles: This File consists of our CSS Code and has been imported in the HTML File.
+<br>
+-thumbnails: This File Contains all the Channel Profiles and Video Thumbnails.
+<br>
+-icons: This File Contains all the Header and Sidebar Icons.
 </p>
 <p>
 <Strong>Credits</Strong>
