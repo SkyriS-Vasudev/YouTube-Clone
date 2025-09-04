@@ -7,6 +7,9 @@
 <br>
 -Tech Stack
 <br>
+<br>
+-Code Navigation
+ </br>
 -Credits
 <br>
 </p>
@@ -20,7 +23,12 @@
 <br>
   -Frontend: HTML, CSS
 </p>
-
+<p>
+<Strong>Code Navigation</Strong>  
+-youtube-clone: This File conatains the HTML Code of our Youtube Clone. 
+ <br>
+-styles: This File consists of our CSS Code and has been imported in the HTML File.
+</p>
 <p>
 <Strong>Credits</Strong>
   <br>
