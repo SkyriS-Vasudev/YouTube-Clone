@@ -7,9 +7,8 @@
 <br>
 -Tech Stack
 <br>
-<br>
 -Code Navigation
- </br>
+<br>
 -Credits
 <br>
 </p>
