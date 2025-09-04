@@ -38,7 +38,5 @@
   <br>
   -Author: Sneha Sathe
   <br>
-  -Inspired by SuperSimpleDev (https://www.youtube.com/c/SuperSimpleDev)  
-  <br>
 </p>
 </body>
