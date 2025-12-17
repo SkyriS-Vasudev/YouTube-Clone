@@ -33,10 +33,4 @@
 <br>
 -icons: This File Contains all the Header and Sidebar Icons.
 </p>
-<p>
-<Strong>Credits</Strong>
-  <br>
-  -Author: Sneha Sathe
-  <br>
-</p>
 </body>
