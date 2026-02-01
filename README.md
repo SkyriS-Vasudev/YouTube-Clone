@@ -1,4 +1,3 @@
-# YouTube-Clone
 <body>
   <p>
 <strong> TABLE OF CONTENTS </strong> 
